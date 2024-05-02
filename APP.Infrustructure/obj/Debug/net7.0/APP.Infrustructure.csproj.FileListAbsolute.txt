@@ -1,0 +1,15 @@
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Infrustructure\bin\Debug\net7.0\APP.Infrustructure.deps.json
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Infrustructure\bin\Debug\net7.0\APP.Infrustructure.dll
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Infrustructure\bin\Debug\net7.0\APP.Infrustructure.pdb
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Infrustructure\bin\Debug\net7.0\APP.Data.dll
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Infrustructure\bin\Debug\net7.0\APP.Data.pdb
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Infrustructure\obj\Debug\net7.0\APP.Infrustructure.csproj.AssemblyReference.cache
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Infrustructure\obj\Debug\net7.0\APP.Infrustructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Infrustructure\obj\Debug\net7.0\APP.Infrustructure.AssemblyInfoInputs.cache
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Infrustructure\obj\Debug\net7.0\APP.Infrustructure.AssemblyInfo.cs
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Infrustructure\obj\Debug\net7.0\APP.Infrustructure.csproj.CoreCompileInputs.cache
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Infrustructure\obj\Debug\net7.0\APP.Infrustructure.csproj.CopyComplete
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Infrustructure\obj\Debug\net7.0\APP.Infrustructure.dll
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Infrustructure\obj\Debug\net7.0\refint\APP.Infrustructure.dll
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Infrustructure\obj\Debug\net7.0\APP.Infrustructure.pdb
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Infrustructure\obj\Debug\net7.0\ref\APP.Infrustructure.dll

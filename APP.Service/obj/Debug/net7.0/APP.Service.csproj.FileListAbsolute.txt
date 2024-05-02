@@ -1,0 +1,17 @@
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Service\bin\Debug\net7.0\APP.Service.deps.json
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Service\bin\Debug\net7.0\APP.Service.dll
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Service\bin\Debug\net7.0\APP.Service.pdb
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Service\obj\Debug\net7.0\APP.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Service\obj\Debug\net7.0\APP.Service.AssemblyInfoInputs.cache
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Service\obj\Debug\net7.0\APP.Service.AssemblyInfo.cs
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Service\obj\Debug\net7.0\APP.Service.csproj.CoreCompileInputs.cache
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Service\obj\Debug\net7.0\APP.Service.dll
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Service\obj\Debug\net7.0\refint\APP.Service.dll
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Service\obj\Debug\net7.0\APP.Service.pdb
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Service\obj\Debug\net7.0\ref\APP.Service.dll
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Service\bin\Debug\net7.0\APP.Data.dll
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Service\bin\Debug\net7.0\APP.Infrustructure.dll
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Service\bin\Debug\net7.0\APP.Data.pdb
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Service\bin\Debug\net7.0\APP.Infrustructure.pdb
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Service\obj\Debug\net7.0\APP.Service.csproj.AssemblyReference.cache
+C:\Users\Captain\source\repos\APP.CleanArchitecture\APP.Service\obj\Debug\net7.0\APP.Service.csproj.CopyComplete
